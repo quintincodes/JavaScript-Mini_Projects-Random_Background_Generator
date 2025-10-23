@@ -8,7 +8,7 @@ _#freeCodeCamp JavaScript Algorithms and Data Structures Projects_
 
 ## live Demo
 
-[Random Background Generator](https://eddking-qs.github.io/JavaScript-Mini_Projects-Random_Background_Generator/)
+[Random Background Generator](https://quintincodes.github.io/JavaScript-Mini_Projects-Random_Background_Generator/)
 
 ## Features
 
